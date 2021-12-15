@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="simple-rpc-codec" />
+        <module name="simple-rpc-client" />
+        <module name="simple-rpc-common" />
+        <module name="simple-rpc-demo" />
+        <module name="simple-rpc-server" />
+        <module name="simple-rpc-proto" />
+        <module name="simple-rpc-transport" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
